@@ -1,2 +1,2 @@
 # Fraternity-
-Official Server Website Of A The Fraternity 
+Official github Of The Fraternity InfoSec
